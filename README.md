@@ -9,8 +9,8 @@
 - 🔭 Currently working on: **[your project]**
 - 🌱 Learning: **Rust / LLM fine-tuning / whatever**
 - 💬 Ask me about: **Python, Django, distributed systems**
-- 📫 Reach me: **your@email.com**
-- ⚡ Fun fact: **...**
+- 📫 Reach me: **pavankolkar29@gmail.com**
+- ⚡ Fun fact: **developer**
 
 ---
 
