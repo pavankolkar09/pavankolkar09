@@ -31,15 +31,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankolkar09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankolkar09&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=pavankolkar09&cc=000&tc=fff&ic=fff&bc=000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankolkar09&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=pavankolkar09&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavankolkar09&theme=tokyonight" />
+</p>
 
 ## 🐍 Contribution Snake
 
