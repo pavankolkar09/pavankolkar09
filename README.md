@@ -1,9 +1,5 @@
-## Hi there 👋
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+I'm+Pavan+Kolkar+%F0%9F%91%8B;Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
 </p>
 
 ## About Me
@@ -42,6 +38,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pavankolkar09&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavankolkar09&theme=tokyonight" />
 </p>
+
+---
 
 ## 🐍 Contribution Snake
 
